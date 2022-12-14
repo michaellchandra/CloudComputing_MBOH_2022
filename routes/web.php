@@ -21,3 +21,7 @@ Route::get('/', function () {
 Route::get('/listbuku', function () {
     return view('listbuku');
 });
+
+Route::get('/contact', function () {
+    return view('contact');
+});

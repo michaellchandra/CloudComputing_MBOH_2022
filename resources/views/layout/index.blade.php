@@ -25,9 +25,9 @@
             <ul class="navbar-nav mx-auto">
                 <li class="nav-item"><a class="nav-link active" href="/">Home</a></li>
                 <li class="nav-item"><a class="nav-link" href="listbuku">List Buku</a></li>
-                <li class="nav-item"><a class="nav-link" href="contacts.html">Kontak</a></li>
+                <li class="nav-item"><a class="nav-link" href="contact">Kontak</a></li>
                 <li class="nav-item"></li>
-            </ul><a class="btn btn-primary shadow" role="button" href="login.html">Sign Up</a>
+            </ul><a class="btn btn-primary shadow" role="button" href="login">Sign Up</a>
         </div>
     </div>
   </nav>

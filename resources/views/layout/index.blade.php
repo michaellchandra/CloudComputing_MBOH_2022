@@ -8,11 +8,6 @@
 
     <title>Home - EverywhereBooks</title>
 
-    <!-- Include -->
-    {{--
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet"
-        integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
-    --}}
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet"
         href="https://fonts.googleapis.com/css?family=Raleway:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800&amp;display=swap">
@@ -30,12 +25,12 @@
                 <ul class="navbar-nav mx-auto ">
                     <li class="nav-item"><a class="nav-link active text-white" href="/">Home</a></li>
                     <li class="nav-item"><a class="nav-link text-white" href="listbuku">Lists</a></li>
-                    <li class="nav-item"><a class="nav-link text-white" href="contact">About</a></li>
+                    <li class="nav-item"><a class="nav-link text-white" href="about">About</a></li>
                     <a class="btn btn-warning shadow" role="button" href="login">Log In</a>
                     <tr>
                         <td>&nbsp;</td>
                     </tr>
-                    <a class="btn btn-warning shadow" role="button" href="signUp">Sign Up</a>
+                    <a class="btn btn-warning shadow" role="button" href="register">Sign Up</a>
                 </ul>
             </div>
         </div>
